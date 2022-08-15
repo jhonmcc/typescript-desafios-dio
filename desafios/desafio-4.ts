@@ -1,3 +1,5 @@
+// NAO consegui resolver o 4 ainda apertou o prazo.
+
 // // Um desenvolvedor tentou criar um projeto que consome a base de dados de filme do TMDB para criar um organizador de filmes, mas desistiu 
 // // pois considerou o seu código inviável. Você consegue usar typescript para organizar esse código e a partir daí aprimorar o que foi feito?
 
